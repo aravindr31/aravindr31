@@ -1,5 +1,17 @@
 # 💫 About Me:
-I’m currently working on Observability as Code (OaC) at Ford Motor Company, specifically integrating Dynatrace with Google Cloud Platform (GCP) to automate monitoring and reliability.<br><br>I’m looking to collaborate on SRE and DevOps-related projects, especially those focused on infrastructure automation, Kubernetes, or cloud-native tooling.<br><br>I’m looking for help with Deepening my knowledge in Bug Bounty hunting and advanced security research methodologies.<br><br>I’m currently learning Golang, System Design, OpenTelemetry (OTel), and security testing/bug bounty hunting.<br><br>Ask me about Setting up comprehensive observability stacks, automating workflows with Python, or building applications with Next.js.
+🔭 I’m currently working on: * Standardizing Observability as Code via Terraform to automate monitoring and configuration management across diverse product teams.
+
+Driving the full reliability lifecycle for commerce products, focusing on SLO/Error Budget frameworks and automated incident response.
+
+🤝 I’m looking to collaborate on: Open-source SRE/DevOps tools, specifically those focused on infrastructure automation and cloud-native reliability.
+
+🆘 I’m looking for help with: Getting started with Bug Bounty hunting and deepening my understanding of security research.
+
+🌱 I’m currently learning: Golang, System Design, and OpenTelemetry (OTel).
+
+💬 Ask me about: Setting up enterprise observability, Python for automation, or building reliability dashboards with Next.js.
+
+⚡ Fun fact: I build custom web crawlers to proactively catch client-side errors before they impact the user experience.
 
 
 ## 🌐 Socials:
