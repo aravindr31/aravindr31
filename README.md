@@ -1,52 +1,45 @@
-# 👾 Aravind's Terminal 
+# 👋 Hey, I'm Aravind R
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Welcome%20to%20my%20Space&fontSize=70&animation=fadeIn" />
-</p>
+> _Keeping systems reliable, secure, and occasionally over-engineered._
 
-## 🕹️ Current Status: Leveling Up
-- 🔭 I’m currently working on **[Project Name]**
-- 🌱 I’m currently learning **[Tech Stack, e.g., Rust & WebGL]**
-- 👯 I’m looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **Gaming, UI Design, or Backend Architecture**
+🚗 **SRE / DevSecOps Engineer @ Ford Motor Company**  
+☁️ Cloud | Observability | Platform | Automation  
+🐧 Linux-first | Terraform-heavy | YAML survivor  
 
 ---
 
-### 🛠 Tech Stack & Tools
+## 🐍 Contribution Snake (because why not?)
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,mongodb,docker,aws,py,figma" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="snake eating my commits" />
 </p>
 
 ---
 
-### 🎮 My GitHub "Pac-man" Contribution Graph
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
+## 📅 Isometric Commit Calendar
+
+> _My GitHub activity, but make it 3D._
+
+![Metrics](https://metrics.lecoq.io/aravindr31?template=classic&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&config.timezone=Asia%2FCalcutta)
+
+---
+## 📊 GitHub Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=aravindr31&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
-### 📊 Vital Statistics
+## 🛠️ Things I Break (Professionally)
 
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=[YOUR-USERNAME]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR-USERNAME]&layout=compact&langs_count=7&theme=tokyonight" />
-</p>
-
----
-
-### 🏆 Trophies
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aravindr31&theme=dracula" alt="aravindr31" /></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aravindr31&label=Profile%20views&color=0e75b6&style=flat" alt="Views" />
-</p>
+```yaml
+role: Site Reliability / DevSecOps
+focus:
+  - Observability (Dynatrace, Prometheus, Grafana)
+  - IaC (Terraform, GitHub Actions)
+  - Cloud (Azure, GCP)
+  - Containers (Docker, Kubernetes)
+  - Security (WAF, Secrets, CI/CD hardening)
+mindset:
+  - automate-everything: true
+  - alert-fatigue: avoided
+  - prod-access: 😬
