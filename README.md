@@ -23,7 +23,7 @@
 
 📚 Currently learning **OpenTelemetry,Tekton,Flux CD**
 
-🌐 Want to know more about me? Check out [https://raravind.in](https://raravind.in)
+🌐 Want to know more about me? Check out [https://raravind.in](https://www.raravind.in)
 
 ⚡ Fun fact: **I can solve a rubix cube under 2 min**
 
