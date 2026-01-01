@@ -1,4 +1,4 @@
-# 👾 [Your Name]'s Terminal 
+# 👾 Aravind's Terminal 
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Welcome%20to%20my%20Space&fontSize=70&animation=fadeIn" />
