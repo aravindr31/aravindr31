@@ -59,9 +59,9 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aravindr31&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 </p>
 
-![](https://github-profile-showcase-2a44709a.davidbbryan.workers.dev/badges?username=aravindr31)
-
-https://github-profile-showcase-2a44709a.davidbbryan.workers.dev/badges?username=aravindr31
+<p aligh="center">
+<img src="https://github-profile-showcase-2a44709a.davidbbryan.workers.dev/badges?username=aravindr31" alt="Badges" />
+</p>
 
 <br/>
 
