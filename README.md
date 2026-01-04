@@ -53,14 +53,13 @@
 ## 📊 <code>github.stats()</code>
 
 <p align="center">
-  
-![](https://github-readme-stats.vercel.app/api?username=aravindr31&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=aravindr31&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aravindr31&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<img src="https://gitpulse-api.davidbbryan.workers.dev/streaks?username=aravindr31" alt="Badges" />
 </p>
 
+</br>
+
 <p aligh="center">
-<img src="https://github-profile-showcase-2a44709a.davidbbryan.workers.dev/badges?username=aravindr31" alt="Badges" />
+<img src="https://gitpulse-api.davidbbryan.workers.dev/badges?username=aravindr31" alt="Badges" />
 </p>
 
 <br/>
