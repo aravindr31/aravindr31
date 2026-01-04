@@ -13,13 +13,13 @@
 
 
 
-## <code>about.me()</code>
+## #️⃣ <code>about.me()</code>
 
 **Architecting high-availability systems by day, building cool experiments by night.**
 
 🌍 Based in **Kerala,IN**
 
-💼 Currently working on **Github Profile Builder**
+💼 Currently working on **[Git Pulse](https://www.github.com/aravindr31/git-pulse)**
 
 📚 Currently learning **OpenTelemetry,Tekton,Flux CD**
 
@@ -50,16 +50,21 @@
 
 <br/>
 
-## 📊 <code>github.stats()</code>
+## 🎖 <code>code.mastery.levels()</code>
 
-<p align="center">
-  
-![](https://github-readme-stats.vercel.app/api?username=aravindr31&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=aravindr31&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aravindr31&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<p aligh="center">
+<img src="https://gitpulse-api.davidbbryan.workers.dev/badges?username=aravindr31" alt="Badges" />
 </p>
 
 <br/>
+
+## 🎯 <code>github.stats()</code>
+
+<p align="center">
+<img src="https://gitpulse-api.davidbbryan.workers.dev/streaks?username=aravindr31" alt="Badges" />
+</p>
+
+</br>
 
 ## 📊 <code>contribution.graph()</code>
 
