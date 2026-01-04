@@ -13,13 +13,13 @@
 
 
 
-## <code>about.me()</code>
+## #️⃣ <code>about.me()</code>
 
 **Architecting high-availability systems by day, building cool experiments by night.**
 
 🌍 Based in **Kerala,IN**
 
-💼 Currently working on **Github Profile Builder**
+💼 Currently working on **[Git Pulse](https://www.github.com/aravindr31/git-pulse)**
 
 📚 Currently learning **OpenTelemetry,Tekton,Flux CD**
 
@@ -50,19 +50,21 @@
 
 <br/>
 
-## 📊 <code>github.stats()</code>
-
-<p align="center">
-<img src="https://gitpulse-api.davidbbryan.workers.dev/streaks?username=aravindr31" alt="Badges" />
-</p>
-
-</br>
+## 🎖 <code>code.mastery.levels()</code>
 
 <p aligh="center">
 <img src="https://gitpulse-api.davidbbryan.workers.dev/badges?username=aravindr31" alt="Badges" />
 </p>
 
 <br/>
+
+## 🎯 <code>github.stats()</code>
+
+<p align="center">
+<img src="https://gitpulse-api.davidbbryan.workers.dev/streaks?username=aravindr31" alt="Badges" />
+</p>
+
+</br>
 
 ## 📊 <code>contribution.graph()</code>
 
