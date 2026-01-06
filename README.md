@@ -12,7 +12,6 @@
 </p>
 
 
-
 ## #️⃣ <code>about.me()</code>
 
 **Architecting high-availability systems by day, building cool experiments by night.**
