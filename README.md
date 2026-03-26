@@ -6,5 +6,5 @@ Currently exploring eBPF-native observability — migrating a k3s homelab CNI to
 
 **Interests:** Observability · eBPF · Kubernetes · SRE · FinOps
 
-📝 Blog coming soon at aravindr.in
+📝 Blog coming soon at www.aravindr.in
 📫 aravindr597@gmail.com
